@@ -1,0 +1,10 @@
+El procedimiento es:
+
+1.Ejecutar el .m que se llama Gui-Welcome.
+2. Dar clic en el icono de información y activará el botón de Empezar.
+3. Dar clic a Empezar y cargará los archivos de simulink y los parámetros. De igual manera cargará la interfaz de control.
+4. En la interfaz de control puede hacer dos cosas, ver las posiciones de los objetos en el área de trabajo o colocar el manipulador en su posición inicial.
+5. Si quiere ejecutar el movimiento automático, necesita primero llevar la posición inicial. Porque de lo contrario no se activa el botón de start experiment 
+6. Presionar el botón de start experiment y hasta que se inicie el programa en simulink se activaran los botones de red, yellow, circle y square. Aquí se debe seleccionar un color y una forma y presionar el botón search, es necesario seleccionar una forma y un color o de lo contrario no se va a hacer nada. 
+7. Se muestra una imagen de las figuras en la gui, se captura el objeto y se lleva a donde debería. 
+8. Se puede repetir la rutina hasta que de terminen 
